@@ -306,3 +306,5 @@ lines(px, py, col="red", lwd=2)
 arrows(px[-length(px)], py[-length(py)], px[-1], py[-1], length=0.1, col="red")
 
 points(px[1], py[1], pch=21, bg="yellow", cex=2)
+
+                                         
